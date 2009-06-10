@@ -1,11 +1,11 @@
-Template/Declare/Bricolage version 0.01
+Template/Declare/Bricolage version 0.02
 =======================================
 
 This module provides Template::Declare-based tools to simplify the generation
 of XML documents for use with the Bricolage SOAP API. If you need to generate
 XML files to send to Bricolage, this is the library to make your life easier.
 If you don't use Bricolage, well, you don't need this library. But see
-Template::Declare itself for a nice, Perlish templating environment.a
+Template::Declare itself for a nice, Perlish templating environment.
 
 INSTALLATION
 

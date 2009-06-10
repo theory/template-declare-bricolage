@@ -1,7 +1,7 @@
 package Template::Declare::Bricolage;
 
 use strict;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 BEGIN {
     eval 'package ' . __PACKAGE__ . q{::OneTag;
