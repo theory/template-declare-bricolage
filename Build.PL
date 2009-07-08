@@ -6,15 +6,15 @@ Module::Build->new(
     module_name        => 'Template::Declare::Bricolage',
     license            => 'perl',
     configure_requires => {
-        'Module::Build' => '0.2701',
+        'Module::Build' => '0.30',
     },
     build_requires     => {
-        'Module::Build' => '0.2701',
+        'Module::Build' => '0.30',
         'Test::More'    => '0.17',
         'Test::XML'     => 0,
     },
     requires           => {
-        'Template::Declare' => 0,
+        'Template::Declare' => '0.26',
     },
     recommends         => {
         'Test::Pod'           => '1.20',
