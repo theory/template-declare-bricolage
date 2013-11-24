@@ -24,7 +24,7 @@ Module::Build->new(
         resources => {
             homepage    => 'http://search.cpan.org/dist/Template-Declare-Bricolage/',
             bugtracker  => 'http://github.com/theory/template-declare-bricolage/issues/',
-            repository  => 'http://github.com/theory/template-declare-bricolage/tree/',
+            repository  => 'http://github.com/theory/template-declare-bricolage',
         }
     },
 )->create_build_script;
